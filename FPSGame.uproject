@@ -9,8 +9,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "AdvancedSessions",
-			"Enabled": false
+			"Name": "OnlineFramework",
+			"Enabled": true
 		}
 	]
 }
