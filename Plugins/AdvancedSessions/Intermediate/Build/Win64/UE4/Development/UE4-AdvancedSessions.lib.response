@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"C:\Users\paul-\Documents\Unreal Projects\FPSGame\NewShooter\ShooterGame\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
+"C:\Users\paul-\Documents\Unreal Projects\FPSGame\NewShooter\ShooterGame\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
+"C:\Users\paul-\Documents\Unreal Projects\FPSGame\NewShooter\ShooterGame\Intermediate\Build\Win64\UE4\Development\AdvancedSessions\PCLaunch.rc.res"
+/OUT:"C:\Users\paul-\Documents\Unreal Projects\FPSGame\NewShooter\ShooterGame\Plugins\AdvancedSessions\Binaries\Win64\UE4-AdvancedSessions.lib"
