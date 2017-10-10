@@ -74,3 +74,6 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 _config.yml
+Releases/0.0.0.1.1/WindowsNoEditor/AssetRegistry.bin
+Releases/0.0.0.1.1/WindowsNoEditor/DevelopmentAssetRegistry.bin
+Releases/0.0.0.1/WindowsNoEditor/FPSGame-WindowsNoEditor_0_P.pak
