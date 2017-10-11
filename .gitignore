@@ -74,3 +74,16 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 _config.yml
+<<<<<<< HEAD
+Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+=======
+Releases/0.0.0.1.1/WindowsNoEditor/AssetRegistry.bin
+Releases/0.0.0.1.1/WindowsNoEditor/DevelopmentAssetRegistry.bin
+Releases/0.0.0.1/WindowsNoEditor/FPSGame-WindowsNoEditor_0_P.pak
+Releases/0.0.0.1.1/WindowsNoEditor/AssetRegistry.bin
+Releases/0.0.0.1.1/WindowsNoEditor/DevelopmentAssetRegistry.bin
+Releases/0.0.0.1/WindowsNoEditor/FPSGame-WindowsNoEditor_0_P.pak
+>>>>>>> b3834a6a52aa598abfa89352e8cd2994bfe8e9a7
+Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+*.umap
